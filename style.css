@@ -1,0 +1,23 @@
+#header{
+    display: flex ;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+   }
+#title{
+    padding-left: 15px;
+    font-weight: bold;
+    font-size: x-large;
+}
+.rightPart{
+    padding-right: 15px;
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+   }
+#navigation ul{
+   display: flex;
+   flex-direction: row;
+   gap : 25px;
+  }
