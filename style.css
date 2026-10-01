@@ -21,3 +21,18 @@
    flex-direction: row;
    gap : 25px;
   }
+
+.hero{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap : 75px;
+}
+.heroImage img{
+    height: 270px;
+    width: 250px;
+}
+.hero .hero-content button{
+    border-radius: 5px;
+}
+ 
